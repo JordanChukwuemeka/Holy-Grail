@@ -1,1 +1,1 @@
-# Holy-Grail
+A responsive Holy Grail layout using HTML & CSS, featuring a header, footer, and three columns (left sidebar, main content, right sidebar). Flexbox ensures proper alignment and adaptability across screen sizes. Clean, semantic code with no JavaScript.
